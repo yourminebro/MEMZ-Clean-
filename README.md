@@ -15,6 +15,8 @@ To do an emegency stop, Do Shift+Esc.
 
 For an normal stop, Just click the button again.
 
+Press CTRL+SHIFT+S to make some payloads faster.
+
 If there are any things left on your screen even after you stopped the payload, Move your exe around where the stuff is. (This is automatic for an emergency stop)
 
 Risky payloads are there in the exe, Its not actually risky but its a 30% chance you loose data temporary. These payloads give you a warning
